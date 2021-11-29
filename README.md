@@ -1,4 +1,4 @@
-#push_swap
+# push_swap
 
 Huge shoutout to Eperaita (https://github.com/Eperaita) for helping me understand the sorting algorithm
 
