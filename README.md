@@ -5,6 +5,7 @@ This proyects goal is to sort a random amount of numbers given some instructions
 
 To execute the program:
 ./push_swap "numbers" || ./push_swap "218 1283 123 293 192"
+
 ./push_swap numbers.  || ./push_swap 218 1283 123 293 192
 
 The list of numbers cannot have duplicates and they cannot be in order.
